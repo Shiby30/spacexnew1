@@ -1,0 +1,447 @@
+body
+{
+    margin:0;
+}
+h4
+{
+    margin: 0;
+}
+.container1
+{
+    display: flex;
+    size: cover;
+    position: center;
+}
+.div1,.div2,.div3,.div4,.div5,.div6,.div7,.div8,.div9
+{
+    font-size: 14px;
+    text-align: left;
+    font-family: D-DIN-Regular, Arial, Verdana, sans-serif;
+    line-height: 26px;
+    letter-spacing: normal;
+    padding-top: 42px;
+    cursor: pointer;
+}
+.div1
+{
+    position: absolute;
+    color: white;
+    padding-left: 270px;
+
+}
+.div2
+{
+    position: absolute;
+    color: white;
+   padding-left: 365px;
+}
+.div3
+{
+    position: absolute;
+    color: white;
+    padding-left: 500px;
+
+}
+.div4
+{
+    position: absolute;
+    color: white;
+    padding-left: 590px;
+}
+.div5
+{
+    position: absolute;
+    color: white;
+    padding-left: 690px;
+}
+.div6
+{
+    position: absolute;
+    color: white;
+    padding-left: 880px;
+}
+.div7
+{
+    position: absolute;
+    color: white;
+    padding-left:1000px;
+}
+.div8
+{
+    position: absolute;
+    color: white;
+    padding-left: 1120px;
+}
+.div9
+{
+    position: absolute;
+    color: white;
+    padding-left: 1350px;
+}
+.container2
+{
+    display: flex;
+    size: cover;
+    position: center;
+}
+.div10
+{
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    line-height: 26px;
+    padding-top: 480px;
+    padding-left: 100px;
+    letter-spacing: normal;
+    font-weight: lighter;
+    font-family: D-DIN-Regular, Arial, Verdana, sans-serif;
+}
+.div11
+{
+    position: absolute;
+    color: white;
+    font-size: 36px;
+    line-height: 44px;
+    padding-top: 490px;
+    padding-left: 100px;
+    font-family: D-DIN-Regular, Arial, Verdana, sans-serif;
+    font-weight: 300;
+}
+.button1
+{
+    position: absolute;
+    padding-top: 610px;
+    padding-left: 100px;
+    width: 60px;
+    height: 50px;   
+}
+.button2
+{
+    background: transparent;
+    border:solid;
+    color: #fff;
+    width: 150px;
+    height: 50px;
+    font-family: D-DIN-Regular, Arial, Verdana, sans-serif;
+    font-size: 14px;
+    line-height: 26px;
+    text-align: center;
+    font-weight:650;
+}
+.button2:hover
+{
+    background: white;
+    color: black;
+    border: none;
+    transition:1.5s;
+    transform-style: preserve-3d;   
+}
+.p1
+{
+   
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    line-height: 26px;
+    padding-top: 480px;
+    padding-left: 100px;
+    letter-spacing: normal;
+    font-weight: lighter;
+    font-family: D-DIN-Regular, Arial, Verdana, sans-serif;
+}
+.div21
+{
+    position: absolute;
+    color: white;
+    font-size: 36px;
+    line-height: 44px;
+    padding-top: 490px;
+    padding-left: 100px;
+    font-family: D-DIN-Regular, Arial, Verdana, sans-serif;
+    font-weight: 300;
+}
+.button3
+{
+    position: absolute;
+    padding-top: 610px;
+    padding-left: 100px;
+    width: 60px;
+    height: 50px;   
+}
+.button4
+{
+    background: transparent;
+    border:solid;
+    color: #fff;
+    width: 150px;
+    height: 50px;
+    font-family: D-DIN-Regular, Arial, Verdana, sans-serif;
+    font-size: 14px;
+    line-height: 26px;
+    text-align: center;
+    font-weight:650;
+}
+.button4:hover
+{
+    background: white;
+    color: black;
+    border: none;
+    transition:1.5s;
+    transform-style: preserve-3d;   
+}
+.image9
+{
+    width: 100px;
+}
+.p2
+{
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    line-height: 26px;
+    padding-top: 480px;
+    padding-left: 100px;
+    letter-spacing: normal;
+    font-weight: lighter;
+    font-family: D-DIN-Regular, Arial, Verdana, sans-serif;
+}
+.div22
+{
+    position: absolute;
+    color: white;
+    font-size: 36px;
+    line-height: 44px;
+    padding-top: 490px;
+    padding-left: 100px;
+    font-family: D-DIN-Regular, Arial, Verdana, sans-serif;
+    font-weight: 300;
+}
+.button6
+{
+    position: absolute;
+    padding-top: 650px;
+    padding-left: 100px;
+    width: 60px;
+    height: 50px;    
+}
+.button7
+{
+    background: transparent;
+    border:solid;
+    color: #fff;
+    width: 150px;
+    height: 50px;
+    font-family: D-DIN-Regular, Arial, Verdana, sans-serif;
+    font-size: 14px;
+    line-height: 26px;
+    text-align: center;
+    font-weight:650;    
+}
+.button7:hover
+{
+    background: white;
+    color: black;
+    border: none;
+    transition:1.5s;
+    transform-style: preserve-3d;   
+}
+.p3
+{
+   
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    line-height: 26px;
+    padding-top: 480px;
+    padding-left: 100px;
+    letter-spacing: normal;
+    font-weight: lighter;
+    font-family: D-DIN-Regular, Arial, Verdana, sans-serif;
+}
+.div23
+{
+    position: absolute;
+    color: white;
+    font-size: 36px;
+    line-height: 44px;
+    padding-top: 490px;
+    padding-left: 100px;
+    font-family: D-DIN-Regular, Arial, Verdana, sans-serif;
+    font-weight: 300;
+}
+.button10
+{
+    position: absolute;
+    padding-top: 650px;
+    padding-left: 100px;
+    width: 60px;
+    height: 50px;   
+}
+.button11
+{
+    background: transparent;
+    border:solid;
+    color: #fff;
+    width: 150px;
+    height: 50px;
+    font-family: D-DIN-Regular, Arial, Verdana, sans-serif;
+    font-size: 14px;
+    line-height: 26px;
+    text-align: center;
+    font-weight:650;    
+}
+.button11:hover
+{
+    background: white;
+    color: black;
+    border: none;
+    transition:1.5s;
+    transform-style: preserve-3d;   
+}
+.container3
+{
+    display: flex;
+    size: cover;
+    position: center;
+}
+.div24
+{
+    position: absolute;
+    color: white;
+    font-size: 36px;
+    line-height: 44px;
+    padding-top: 350px;
+    padding-left: 100px;
+    font-family: D-DIN-Regular, Arial, Verdana, sans-serif;
+    font-weight: 300;
+}
+.button12
+{
+    position: absolute;
+    padding-top: 600px;
+    padding-left: 100px;
+    width: 60px;
+    height: 50px;   
+}
+.button13
+{
+    background: transparent;
+    border:solid;
+    color: #fff;
+    width: 150px;
+    height: 50px;
+    font-family: D-DIN-Regular, Arial, Verdana, sans-serif;
+    font-size: 14px;
+    line-height: 26px;
+    text-align: center;
+    font-weight:650;  
+}
+.button13:hover
+{
+    background: white;
+    color: black;
+    border: none;
+    transition:1.5s;
+    transform-style: preserve-3d;   
+}
+.container4
+{
+    display: flex;
+    size: cover;
+    position: center;
+}
+.container5
+{
+    display: flex;
+    size: cover;
+    position: center;
+}
+.logo2
+{
+    position: absolute;
+    padding-top: 30px;
+    padding-left: 20px;
+}
+.container6
+{
+    display: flex;
+    size: cover;
+    position: center;
+    background-color: black;
+    color: white;
+    height: 80px;
+}
+.pp1
+{
+    padding-left: 300px;
+    padding-top: 20px;
+    font-size: 12px;
+    line-height: 24px;
+    text-align: center;
+    font-family: D-DIN-Bold, Arial, Verdana, sans-serif;
+}
+.pp2
+{
+    padding-left: 50px;
+    padding-top: 20px;
+    font-size: 12px;
+    line-height: 24px;
+    text-align: center;
+    font-family: D-DIN-Bold, Arial, Verdana, sans-serif;
+}
+.pp3
+{
+    padding-left: 50px;
+    padding-top: 20px;
+    font-size: 12px;
+    line-height: 24px;
+    text-align: center;
+    font-family: D-DIN-Bold, Arial, Verdana, sans-serif;
+}
+.pp4
+{
+    padding-left: 50px;
+    padding-top: 20px;
+    font-size: 12px;
+    line-height: 24px;
+    text-align: center;
+    font-family: D-DIN-Bold, Arial, Verdana, sans-serif;
+}
+.pp5
+{
+    padding-left: 50px;
+    padding-top: 20px;
+    font-size: 12px;
+    line-height: 24px;
+    text-align: center;
+    font-family: D-DIN-Bold, Arial, Verdana, sans-serif;
+}
+.pp6
+{
+    padding-left: 50px;
+    padding-top: 20px;
+    font-size: 12px;
+    line-height: 24px;
+    text-align: center;
+    font-family: D-DIN-Bold, Arial, Verdana, sans-serif;
+}
+.pp7
+{
+    padding-left: 50px;
+    padding-top: 20px;
+    font-size: 12px;
+    line-height: 24px;
+    text-align: center;
+    font-family: D-DIN-Bold, Arial, Verdana, sans-serif;
+}
+.pp8
+{
+    padding-left: 50px;
+    padding-top: 20px;
+    font-size: 12px;
+    line-height: 24px;
+    text-align: center;
+    font-family: D-DIN-Bold, Arial, Verdana, sans-serif;
+}
+
+
